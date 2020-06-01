@@ -1,2 +1,2 @@
 # HNGi7
-First repository for HNGi7
+## First repository for HNGi7
